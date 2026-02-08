@@ -186,11 +186,21 @@ Supabase RLS is enabled on all tables:
 
 ### Demo Screenshots
 
-Complete API testing demonstration available in the `screenshots/` folder:
+Complete API testing demonstration with screenshots:
 
-1. **Postman API Tests** - All endpoints tested successfully
-2. **Supabase Dashboard** - Database tables, RLS policies, and storage
-3. **Server Logs** - Detailed request/response logging
+#### 1. Postman API Tests - All Endpoints Working
+![Signup Endpoint](screenshots/Screenshot%20(507).png)
+![Login Endpoint](screenshots/Screenshot%20(508).png)
+![Ask Jiji Endpoint](screenshots/Screenshot%20(509).png)
+
+#### 2. Supabase Dashboard - Database & RLS
+![Supabase Tables](screenshots/Screenshot%20(510).png)
+![RLS Policies](screenshots/Screenshot%20(511).png)
+![Storage Bucket](screenshots/Screenshot%20(512).png)
+
+#### 3. Server Logs - Request/Response Tracking
+![Server Logs](screenshots/Screenshot%20(513).png)
+![API Response](screenshots/Screenshot%20(514).png)
 
 See [TESTING_RESULTS.md](TESTING_RESULTS.md) for detailed test documentation.
 
